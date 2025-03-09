@@ -1,11 +1,5 @@
 # Robo_advising
 
-You're absolutely right! Since **Lab2b.ipynb** primarily focuses on **machine learning**, I will update the **README.md** to accurately reflect that. Here is the corrected version:
-
----
-
-### **README.md**
-
 # **Robo Advisor Project**
 This project implements a **Robo Advisor** using **machine learning and financial optimization techniques**. The system allows users to determine their **risk tolerance** and receive an optimized **investment portfolio allocation** based on historical financial data.
 
